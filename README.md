@@ -12,7 +12,9 @@ Minha trajetória me proporcionou proficiência no acompanhamento de KPIs, elabo
 
 ## 🏆 Destaque Profissional: Prêmio "Bravo Zulu" na FedEx
 
-Durante minha atuação na FedEx, tive a oportunidade de colaborar ativamente no projeto de implementação de uma nova ferramenta de cotação. Fui o ponto focal entre os usuários e a equipe de desenvolvimento em Miami, onde minha dedicação e os feedbacks detalhados para o aprimoramento do sistema me renderam o reconhecimento interno **"Bravo Zulu"**. Esta experiência foi fundamental para desenvolver minhas habilidades de análise de negócios e comunicação em um projeto de tecnologia.
+Durante minha atuação na FedEx, fui convidado a participar ativamente do projeto de implementação de uma nova ferramenta de cotação. Minha função foi a de **usuário-chave (key user)**, atuando como a ponte entre os usuários da ferramenta e a equipe de desenvolvimento em Miami.
+
+Minha contribuição consistia em prover **feedbacks detalhados sobre a usabilidade, identificar pontos de melhoria e validar funcionalidades**, garantindo que o produto final atendesse às reais necessidades do negócio. Pela dedicação e pela qualidade das contribuições que aprimoraram o sistema, recebi o reconhecimento interno **"Bravo Zulu"**.
 
 <br>
 
