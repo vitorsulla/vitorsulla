@@ -4,9 +4,9 @@
 
 ## 📌 Resumo
 
-Profissional em transição de carreira para a área de tecnologia, com sólida experiência em **análise de dados** e rotinas de **sales enablement**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e busco ativamente uma oportunidade para aplicar e aprofundar meus conhecimentos, agregando valor através de insights baseados em dados.
+Profissional em transição de carreira para a área de tecnologia, com sólida experiência em análise de dados e rotinas de sales enablement. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco ativamente uma nova oportunidade para aplicar e aprofundar meus conhecimentos, agregando valor através de insights baseados em dados.
 
-Minha trajetória me proporcionou proficiência no acompanhamento de KPIs, elaboração de relatórios analíticos e suporte a equipes de vendas. Hoje, como Estagiário de Produtos na Ingram Micro, sou responsável pela criação e manutenção de dashboards em **Power BI** e pelo gerenciamento de bases de dados, otimizando o controle de licenças e processos de compra.
+Minha trajetória me proporcionou proficiência no acompanhamento de KPIs, elaboração de relatórios analíticos e suporte a equipes de vendas. Hoje, como Estagiário de Produtos na Ingram Micro, sou responsável pela criação e manutenção de dashboards em Power BI e pelo gerenciamento de bases de dados, otimizando o controle de licenças e processos de compra.
 
 <br>
 
@@ -31,18 +31,18 @@ Minha contribuição consistia em prover **feedbacks detalhados sobre a usabilid
 
 ## 🎓 Formação e Certificados
 
-* 🎓 **Análise e Desenvolvimento de Sistemas** - Uninove (Conclusão em Jun/2026)
-* 🎓 **Tecnologia em Polímeros** - Fatec Mauá (Concluído em 2016)
-* 📜 **Developing orchestrated scripts with IBM RPA Studio** - IBM Training (Set/2025)
-* 📜 **IBM Robotic Process Automation Introduction** - IBM Training (Set/2025)
-* 📜 **IBM RPA Tenant Administrator Foundation** - IBM Training (Set/2025)
-* 📜 **watsonx Orchestrate Technical Sales Intermediate** - IBM (Set/2025)
-* 📜 **IBM RPA Business User Foundation** - IBM Training (Set/2025)
-* 📜 **watsonx Orchestrate Sales Foundation** - IBM (Set/2025)
-* 📜 **Python Completo e Profissional** - Udemy (Fev/2024)
-* 📜 **Microsoft Power BI** - Udemy (Fev/2024)
-* 📜 **Fundamentos de Python Para Análise de Dados** - Data Science Academy (Conclusão Prevista: Ago/2025)
-* 📜 **Modelagem de Dados** - Fundação Bradesco (Conclusão Prevista: Fev/2025)
+* 🎓 **Análise e Desenvolvimento de Sistemas** - Uninove (Conclusão Prevista para Junho/2026)
+* 🎓 **Tecnologia em Polímeros** - Fatec Mauá (Concluído em Junho/2016)
+* 📜 **Developing orchestrated scripts with IBM RPA Studio** - IBM Training (Concluído em Setembro/2025)
+* 📜 **IBM Robotic Process Automation Introduction** - IBM Training (Concluído em Setembro/2025)
+* 📜 **IBM RPA Tenant Administrator Foundation** - IBM Training (Concluído em Setembro/2025)
+* 📜 **watsonx Orchestrate Technical Sales Intermediate** - IBM (Concluído em Setembro/2025)
+* 📜 **IBM RPA Business User Foundation** - IBM Training (Concluído em Setembro/2025)
+* 📜 **watsonx Orchestrate Sales Foundation** - IBM (Concluído em Setembro/2025)
+* 📜 **Fundamentos de Python Para Análise de Dados** - Data Science Academy (Concluído em Agosto/2025)
+* 📜 **Modelagem de Dados** - Fundação Bradesco (Concluído em Fevereiro/2025)
+* 📜 **Python Completo e Profissional** - Udemy (Concluído em Fevereiro/2024)
+* 📜 **Microsoft Power BI** - Udemy (Concluído em Fevereiro/2024)
 
 <br>
 
