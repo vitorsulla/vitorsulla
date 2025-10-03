@@ -22,7 +22,7 @@ Minha contribuição consistia em prover **feedbacks detalhados sobre a usabilid
 
 | Área | Tecnologias e Competências |
 | --- | --- |
-| **Análise de Dados** | Power BI, Python (Pandas, NumPy), SQL, Modelagem de Dados, Análise de Negócios |
+| **Análise de Dados** | Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow), SQL, Modelagem de Dados, Análise de Negócios |
 | **Business** | Sales Enablement, Análise de KPIs, Relatórios Analíticos |
 | **Idiomas** | Inglês (Fluente) |
 | **Soft Skills** | Comunicação, Aprendizado Rápido, Proatividade, Trabalho em Equipe |
@@ -33,6 +33,12 @@ Minha contribuição consistia em prover **feedbacks detalhados sobre a usabilid
 
 * 🎓 **Análise e Desenvolvimento de Sistemas** - Uninove (Conclusão em Jun/2026)
 * 🎓 **Tecnologia em Polímeros** - Fatec Mauá (Concluído em 2016)
+* 📜 **Developing orchestrated scripts with IBM RPA Studio** - IBM Training (Set/2025)
+* 📜 **IBM Robotic Process Automation Introduction** - IBM Training (Set/2025)
+* 📜 **IBM RPA Tenant Administrator Foundation** - IBM Training (Set/2025)
+* 📜 **watsonx Orchestrate Technical Sales Intermediate** - IBM (Set/2025)
+* 📜 **IBM RPA Business User Foundation** - IBM Training (Set/2025)
+* 📜 **watsonx Orchestrate Sales Foundation** - IBM (Set/2025)
 * 📜 **Python Completo e Profissional** - Udemy (Fev/2024)
 * 📜 **Microsoft Power BI** - Udemy (Fev/2024)
 * 📜 **Fundamentos de Python Para Análise de Dados** - Data Science Academy (Conclusão Prevista: Ago/2025)
